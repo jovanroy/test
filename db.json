@@ -15,7 +15,8 @@
 	    "details":{
 		  "P":"write",
 		  "Suffix":"blabla"
-	  }
+	     }
+    }
   ],
   "profile": {
     "name": "typicode"
