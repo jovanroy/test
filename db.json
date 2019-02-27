@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+    	"operation":"add",
+    	"GenericRAGName":"<ENV>.<CUST>.BFFM.<AID2>.AllHosts.Share.<P>-<Suffix>",
+	    "Domain":"Belwired",
+	    "Env":"UAT",
+	    "Cust":10,
+	    "AID2":"ABCD",
+	    "details":{
+		  "P":"write",
+		  "Suffix":"blabla"
+	  }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
