@@ -14,6 +14,29 @@
 	    "AID2":"ABCD",
 	    "P":"write",
 	    "Suffix":"blabla"
+    },
+    {
+     "id": 3,
+     "operation": "add",
+     "projectID": "1234",
+     "appID": "ABCD",
+     "affectedpersonname": "Jo Van Roy",
+     "requesterAPI": "pabhXXp01",
+     "context": "Customer",
+     "justification": "Default access creation as part of IT resource deployment",
+     "functAccessAddInfo": "",
+     "privilegeStatus": "N",
+     "nestingstatus": "N",
+     "domain": "Belwired",
+     "environment": "PRD",
+     "genericragname": "<ENV>.<CUST>.BFFM.<AID2>.AllHosts.Share.<P>-<Suffix>",
+     "securitygroupname": "PRD.10.BFFM.ABCD.AllHosts.Share.R-myfoldername",
+     "securitygroupdescription": "File share on all PRD BFFM hosts of ABCD application with permission R : myfoldername",
+     "securitytargettype": "AD",
+     "location": "Applications",
+     "scope": "local",
+     "ITResourceTypeID": "BFFM",
+     "resourceinstance": "(Example) All BFFM servers hosting application ABCD in PROD"
     }
   ],
   "profile": {
