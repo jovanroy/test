@@ -12,10 +12,8 @@
 	    "Env":"UAT",
 	    "Cust":10,
 	    "AID2":"ABCD",
-	    "details":{
-		  "P":"write",
-		  "Suffix":"blabla"
-	     }
+	    "P":"write",
+	    "Suffix":"blabla"
     }
   ],
   "profile": {
